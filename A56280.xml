@@ -1,0 +1,1309 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full and clear exposition of the Protestant rule of faith with an excellent dialogue laying forth the large extent of true Protestant charity against the uncharitable papists.</title>
+            <author>Pulton, A. (Andrew), 1654-1710.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56280</idno>
+            <idno type="STC">Wing P4205</idno>
+            <idno type="STC">ESTC R7815</idno>
+            <idno type="EEBO-CITATION">12639275</idno>
+            <idno type="OCLC">ocm 12639275</idno>
+            <idno type="VID">64982</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56280)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64982)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 773:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full and clear exposition of the Protestant rule of faith with an excellent dialogue laying forth the large extent of true Protestant charity against the uncharitable papists.</title>
+                  <author>Pulton, A. (Andrew), 1654-1710.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestantism --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="exposition">
+            <pb facs="tcp:64982:1"/>
+            <pb n="1" facs="tcp:64982:1" rendition="simple:additions"/>
+            <head>A Full and Clear EXPOSITION OF THE PROTESTANT <hi>Rule of
+Faith,</hi> With An Excellent DIALOGUE <hi>Laying forth the large Extent
+of</hi> True Proteſtant Charity <hi>againſt the</hi> Uncharitable
+Papiſts.</head>
+            <p>I Having made it a prime part of my Study theſe ſeveral years,
+to ſeek into the Principles of Religion, and up<g ref="char:EOLhyphen"/>on account that I judged the
+ſaving of my Soul, the grea<g ref="char:EOLhyphen"/>teſt concern I had to deal in this World, I was
+reſolved, maugre all the Principles of Education, Intereſt, or Paſſion,
+there to fix, where I truly was convinced be<g ref="char:EOLhyphen"/>tween God and my own Soul, that
+the ſureſt footing was, and ſecureſt way to Salvation. Which to my
+unſpeakable comfort, being ſatisfy'd that I have found: I can't conceal the
+deſire I have of directing others to endeavour the ſame, that they may
+partake of the like happineſs which I my ſelf enjoy. To accompliſh this
+the more compendiouſly, I conceive nothing more efficacious, than to ſearch
+as I have done, into the different grounds of each Church. The <hi>Roman
+Catholicks,</hi> tho' they allow any ſober Perſon may read (with leave) the
+Holy Scriptures, yet they permit none to interpret the ſame in points of
+Faith, unleſs they take along with them the
+<pb n="2" facs="tcp:64982:2"/> Judgment of the whole Church, either
+diffuſive, or aſſembled by her Repreſentatives in a General Council
+Lawfully call'd, under their chief head his <hi>Holineſs</hi> of
+<hi>Rome,</hi> and to ſuch Definitions alone do they believe themſelves
+bound to ſubſcribe. Now our <hi>Proteſtant</hi> Churches deal more
+liberally, and allow every <hi>ſound Member</hi> a power of reading Holy
+Scripture, and <hi>judging of Controverſies in Faith,</hi> according to the
+meaſure of light imparted, ſo that no body is Bound to ſubmit either to
+Fathers or Councils, unleſs he judge they ſpeak conformably to his private
+ſenſe of Scripture.</p>
+            <p>Now, having lately touched upon this point in my Anſwer to Dr.
+<hi>Tenniſon</hi>'s <hi>Remarks,</hi> and having fram'd an argument of no
+ſmall force, to invalidate the <hi>Protestant</hi> Rule of Faith as by him
+delivered, to which the Dr. in his fifteen Sheets has not returned one
+Syllable, I thought it might prove very beneficial to the Publick, if that
+point were throughly handled, the whole weight of all Controverſy turning
+upon this Hinge, <hi>viz.</hi> whether there be any Power upon Earth, to which
+all Men are bound to ſubmit in matters of Faith, as the <hi>Catholicks</hi>
+teach; or whether every ſound Man be left free to judge for himſelf, as the
+<hi>Proteſtants</hi> aſſert.</p>
+            <p>Methinks I ſee the <hi>Proteſtant</hi> Reader in a Zealous
+fret, for having bought the Paper of an Author againſt whom he has conceived
+a no<g ref="char:EOLhyphen"/>table prejudice, borrowed from the Writings of Dr. <hi>Tenniſon,</hi>
+which he has been pleaſed to inter-line with many very <hi>Injurious</hi> and
+<hi>Scandalous</hi> reflections upon <hi>Me</hi> and <hi>My Religion,</hi>
+nothing provoked thereto, as appears from the modeſt account I gave of the
+<hi>Confe<g ref="char:EOLhyphen"/>rence;</hi> nor do my <hi>Remarks</hi> contain any more than a
+Vindication void of Paſſion, to which Truth and Juſtice did oblige me.
+And although the Dr. continue in his fifteen Sheets called, <hi>Pulton
+Con<g ref="char:EOLhyphen"/>ſidered,</hi> his <hi>Reviling, Defaming,</hi> and <hi>Bantering
+Stile:</hi> yet (ever willing to yield to the Dr. in this) the Anſwer I will
+ſhorly publiſh thereto, as it ſhall be very ſhort, ſo it ſhall
+contain nothing that may diſedify the <hi>Reader.</hi>
+            </p>
+            <p>The <hi>Dr.</hi> having aſſign'd the Holy <hi>Scriptures,</hi>
+as underſtood by <hi>every ſound Iudgment,</hi> for the <hi>Rule of
+Faith;</hi> and conſequently having given to every ſuch Perſon authority
+to Judge of <hi>Con<g ref="char:EOLhyphen"/>troverſies</hi> in <hi>Faith,</hi> at leaſt as far as
+concerns his own ſalvation, I fram'd the following Diſcourſe, the
+<hi>Dr.</hi> has not been pleaſed to return an Anſwer, tho' it was the
+chief <hi>Querie</hi> put to him.</p>
+            <p>
+               <q>We muſt allow, if to any, a ſoundneſs of Judgement to
+<hi>Lu<g ref="char:EOLhyphen"/>ther, Calvin, Caroloſtadius, Zwinglius, Beza, Caſtalio,</hi> &amp;c.
+who were the principal Heads of the <hi>Reformed Churches,</hi> and
+conſequent<g ref="char:EOLhyphen"/>ly receiv'd more of the Divine Influence, us'd more induſtry in
+acquiring <hi>Authentick Copies,</hi> comparing of <hi>Texts,</hi> Imploring
+the Divine Aſſiſtance, than any of their <hi>Followers.</hi>
+               </q>
+            </p>
+            <p>
+               <pb n="3" facs="tcp:64982:2"/> To begin therefore with <hi>Luther,
+Zwinglius</hi> ſays of him, <hi>That he was a foul Corrupter, and horrible
+Falſifier of God's Word: One, who followed the</hi> Marcioniſts
+<hi>and</hi> Arians, <hi>that raz'd out ſuch places of Ho<g ref="char:EOLhyphen"/>ly Writ as were
+againſt him. Thou doſt,</hi> ſays he to <hi>Luther, corrupt the word of
+God; Thou art ſeen to be a manifeſt and common Corrupter and Perverter of
+the Holy Scriptures. How much are we aſham'd of thee, who have hitherto
+eſteem'd thee?</hi> With how great reaſon <hi>Zwinglius</hi> objected this
+to him,
+<q>thoſe are Judges, who have noted above a thouſand places,
+chang'd by him in the <hi>New Teſtament</hi> alone;
+<note place="margin">
+                     <hi>Vide</hi> Bell. <hi>Ser. de</hi>
+Pentec.</note> and that he ſet forth the Goſpels ſeven times, every
+Edition very much differing from the precedent. Now, I deſire to know,
+whe<g ref="char:EOLhyphen"/>ther, and when <hi>Martin Luther</hi> had the aſſiſtance of the H.
+Ghoſt?</q>
+            </p>
+            <p>
+               <q>
+                  <hi>Luther</hi> on the other ſide affirms of the
+<hi>Zwinglian</hi> Tranſlators, <hi>That they are Fools, Aſſes,
+Anti-chriſts, Deceivers, and of an Aſs<g ref="char:EOLhyphen"/>like underſtanding. Beza</hi>
+ſays of the <hi>Baſilian</hi> Tranſlation, <hi>That it is in many places
+Wicked, and altogether differing from the mind of the Holy Ghoſt.</hi> Of
+<hi>Beza</hi>'s Tranſlation, <hi>Caſtalio</hi> obſerves, <hi>That to note
+all his Errours, would require a great Volume. Beza</hi> again pro<g ref="char:EOLhyphen"/>nounces of
+<hi>Gaſtalio</hi>'s Edition, that, <hi>It is Falſe, Fooliſh, Un<g ref="char:EOLhyphen"/>skillful,
+Bold, Blaſphemous, Vitious, Ridiculous, Curſed, Erroni<g ref="char:EOLhyphen"/>ous, Wicked,
+Perverſe.</hi> In the firſt <hi>Engliſh Bible,</hi> ſet forth in the
+Reign of <hi>Henry</hi> VIII. by <hi>Tindal</hi> the chief <hi>Apoſtle</hi>
+of the pretended <hi>Reformation,</hi> Biſhop <hi>Tunſtal</hi> has noted no
+leſs than two thouſand Corruptions in the Tranſlation of the <hi>New
+Teſtament</hi> alone.</q>
+            </p>
+            <p>Give me leave here to argue, as follows: I have a Soul to ſave,
+which is the Concern of Concerns; and which, being once loſt, is
+irrecoverably loſt, and for all Eternity, never to be redeem'd from an
+<hi>Abyſs</hi> of inexplicable Wo. For the ſaving of this moſt precious
+Soul, I ask of our pretended <hi>Reformers,</hi> What I am to do? Take this
+Scripture, ſay the <hi>Zwinglians,</hi> and here you ſhall find the word of
+Life. Hearken not to them, ſays <hi>Luther,</hi> they are <hi>Fools,
+Anti-chriſts, Deceivers.</hi> I turn to <hi>Luther,</hi> Take heed,
+<hi>ſays</hi> Zwinglius, <hi>He is a</hi> Marcioniſt, <hi>an</hi> Arian,
+<hi>a manifeſt and com<g ref="char:EOLhyphen"/>mon Corruper and Perverter of the Holy
+Scriptures.</hi> I leave them both, and go to <hi>Beza:</hi> He offers me a
+Volume, which he calls <hi>the Word of GOD,</hi> when <hi>Caſtalio,</hi>
+crying out, bids me beware, and tells me, 'tis a <hi>Volume of Errours,
+Beza</hi> defends himſelf by defaming <hi>Caſta<g ref="char:EOLhyphen"/>lio,</hi> as <hi>Falſe,
+Bold, Blaſphemous, Curſed, Erronious.</hi>
+            </p>
+            <p>Allarm'd at the claſhing of this <hi>Cadmean</hi> Race of
+Reformers, I leave <hi>Germany,</hi> and come into <hi>England,</hi> a Wiſe
+and Polite Nation, which, having conſider'd at a diſtance theſe mutual
+Diſſentions of our Heavenly gifted Goſpellers, takes doubtleſs better
+meaſures. <hi>Tindal</hi> her prime <hi>Apostle,</hi> offers me the <hi>Book
+of Life,</hi> when <hi>Tunſtal</hi> warns me of two thouſand Corruptions in
+the leſſer half of it. I
+<pb n="4" facs="tcp:64982:3"/> hang in ſuſpence. The Parliament declares it
+to be a <hi>Crafty, Falſe, and</hi>
+               <note place="margin">
+                  <hi>Relig. &amp; Gover.</hi> p. 306.
+<hi>&amp;</hi> 318.</note> 
+               <hi>untrue Tranſlation:</hi> Yet <hi>Cranmer</hi>
+is allowed to preſent me it again little chang'd, beſides the <hi>Marginal
+Notes</hi> and <hi>Preface.</hi> However thro' the eſteem, I have for that
+auguſt Aſſembly, I ſubmit my ſelf, and am willing to depend on its
+prudent determination.</p>
+            <p>To the end therefore, that amidſt ſo much confuſion, this
+weigh<g ref="char:EOLhyphen"/>ty matter may be more Cautiouſly and Piouſly decided, <hi>Martin
+Bucer,</hi> once a <hi>Dominican, Bernardin Ochin,</hi> a <hi>quondam
+Frier,</hi> and ſome others, qualify'd in the ſame nature, are call'd into
+<hi>England</hi> by my Lord Protector and Biſhop <hi>Cranmer,</hi> to frame a
+new Model of Religion, and fix the Standard of the <hi>Engliſh</hi> pretended
+Refor<g ref="char:EOLhyphen"/>mation.</p>
+            <p>Let me here deſire my <hi>Reader</hi> to weigh theſe following
+lines with that indifference of Judgment, and unprejudicateneſs of mind,
+which an Affair of this importance requires, and as I write them, with the
+moſt ſincere Zeal, and Uprightneſs of intention; ſo I moſt
+earneſtly beg, they may be accordingly conſider'd by the di<g ref="char:EOLhyphen"/>ſcreet
+<hi>Chriſtian</hi> Reader.</p>
+            <p>
+               <hi>Bucer</hi> therefore, ſtil'd by Arch-Biſhop
+<hi>Whitgift,</hi> a <hi>Reverend, Learned, Painful, Sound Father;</hi> and of
+whom Sir <hi>John Cheek</hi>
+               <note place="margin">
+                  <hi>In his De<g ref="char:EOLhyphen"/>fence,</hi> page 522.</note>
+ſaid, <hi>The World ſcarce had his Fellow,</hi> firſt became a
+<hi>Lutheran,</hi> then a <hi>Zwinglian,</hi> after that a <hi>Lutheran</hi>
+again, as may be ſeen in the <hi>Acts</hi> of the Synod, held at
+<hi>Luthers</hi> Houſe in <hi>Wittemberg,</hi> in the year 1589, And
+<hi>Bucer</hi> himſelf in his Commentary on the <hi>6th.</hi> of St.
+<hi>John,</hi> and
+<note place="margin">
+                  <hi>Epiſt. ad</hi> Norimb. <hi>&amp;
+
+Eſſeing.</hi>
+               </note> 
+               <hi>26th.</hi> of St. <hi>Matthew,</hi> asks pardon of
+GOD for having deceiv'd ſo many with the <hi>Errours</hi> of
+<hi>Zwinglius</hi> and the <hi>Sacramentarians;</hi> yet after this open
+Repentance, he returns to the ſame <hi>Zwinglianiſm</hi> in
+<hi>England;</hi> and at his Death, as thoſe, who were preſent teſtifie,
+<note place="margin">Schluſſem. <hi>nn Theol.</hi> Calv. l. 2. f.
+70. Pra<g ref="char:EOLhyphen"/>tcol. page 107.</note> embraces <hi>Judaiſm,</hi> having long before
+declar'd to <hi>Dudley</hi> Duke of <hi>Northumberland,</hi> that he doubted,
+<hi>whether all was true, which the Evangeliſts relate of</hi> CHRIST; which
+if it were, none, who believ'd CHRIST to be GOD, and to have ſpoken theſe
+words, <hi>This is my Body,</hi> could deny the <hi>Real Preſence.</hi>
+            </p>
+            <p>
+               <hi>Ochin,</hi> whoſe Opinions were Oracles to the Compoſers
+of the Nine and Thirty Articles, and whom Biſhop <hi>Bale</hi> terms a
+<hi>Light of</hi>
+               <note place="margin">
+                  <hi>Relig. &amp; Gover.</hi> p. 62. 3.</note>
+               <hi>the Church;</hi> ſaying, <hi>That</hi> England <hi>was happy whilſt It
+had him, miſe<g ref="char:EOLhyphen"/>rable when it loſt him;</hi> after many changes in Religion
+turn'd <hi>Jew,</hi> taught <hi>Circumciſion,</hi> and wrote a Book in
+defence of <hi>Polygamy.</hi>
+            </p>
+            <p>
+               <hi>Cranmer</hi> in <hi>Henry</hi> VIII's days, wrote a Book in
+defence of the
+<note place="margin">
+                  <hi>See his Letters in</hi> Fox. 1279
+<hi>and</hi> Stow, p. 1036.</note> 
+               <hi>Real Preſence:</hi> and another in
+<hi>Edward</hi> VI's againſt it. Many ſuch Remarks might be made of
+<hi>Peter Martyr, Coverdale,</hi> and others, the grand Maſters of the
+Reformed Church of <hi>England.</hi>
+            </p>
+            <p>Now I deſire to know, whether theſe Men were in all theſe
+Opini<g ref="char:EOLhyphen"/>ons true <hi>Proteſtants.</hi> If my Reaſon is not quite loſt, I
+conceive,
+<pb n="5" facs="tcp:64982:3"/> you muſt anſwer in the Affirmative: for he
+(according to your Doctrine) is a true <hi>Protestant, who guides himſelf by
+the HoIy Scrip<g ref="char:EOLhyphen"/>ture, taken in ſuch ſenſe, as appears true to his own
+reaſon, which he is not oblig'd to ſubmit to the Judgment of any Church
+whatſoever.</hi> Why ſo? Becauſe <hi>every ſound Judgment is a
+ſufficient Judge in Controverſy.</hi> If thoſe Men therefore were of
+<hi>ſound judgment,</hi> and judging accor<g ref="char:EOLhyphen"/>ding to Scripture, as they for the
+preſent underſtood it, were now of one Opinion, then of another: now
+condemn'd, what they once believ'd; then again believ'd the Tenet, they had
+ſo lately Anathematiz'd: liv'd <hi>Chriſtians;</hi> dy'd <hi>Jews:</hi>
+They were notwith<g ref="char:EOLhyphen"/>ſtanding, in all theſe Opinions, true
+<hi>Proteſtants.</hi> If you ſay, they judg'd right, when they were
+<hi>Zwinglians;</hi> wrong, when they were <hi>Lutherans:</hi> This is ſaid
+meerly <hi>gratis,</hi> and is a perfect begging of the Queſtion. The
+<hi>Lutherans</hi> will riſe up, and aſſert, that they were then truly
+inſpir'd from above, when they judg'd the <hi>Zwin<g ref="char:EOLhyphen"/>glians</hi> an abominable
+Sect: And the <hi>Jews</hi> will challenge them, be<g ref="char:EOLhyphen"/>cauſe in their latter
+days, when they were not only more experi<g ref="char:EOLhyphen"/>enc'd, but alſo more grave and
+ſerious upon the approach of death, they pronounc'd Chriſt to be no
+<hi>Meſſias,</hi> and all the <hi>Christian</hi> Re<g ref="char:EOLhyphen"/>ligion to be nothing,
+but a meer Deluſion and Cheat.</p>
+            <p>If being aſham'd of ſuch Patriarchs, you diſown them, and
+ſay, <hi>They were deceiv'd in this or t'other Opinion, that they were of
+weak judgment, wanted Sincerity, Humility, Modeſty:</hi> It then follows,
+that the Baſis of your pretended Church totters, and how ſhall any one be
+aſſur'd, that the Fabrick, built on ſuch a Foundation, is firm, ſolid,
+and warrantable?</p>
+            <p>If you ſay, you have only taken from them, what was true; and
+agreeable to the right meaning of GOD's Holy Word, without the mixture of their
+various and unchriſtian Errours, I deſire you to give me a Rule, by which I
+may be aſſured of this your certain Choice of only true Doctrine. Theſe
+Men always ſpake conformably to their preſent Judgment of Scripture, which
+as you Univerſally teach, is <hi>clear</hi> and <hi>evident</hi> in all
+points neceſſary to Salvation: what certainty have I, that this
+<hi>Perſpicuity</hi> and <hi>Evidence</hi> was better di<g ref="char:EOLhyphen"/>ſcern'd by them,
+when they taught this Doctrine, than when they deliver'd the Oppoſite? If you
+tell me, you are ſure of it, becauſe 'tis conformable to your own Judgment
+of Scripture; the oppo<g ref="char:EOLhyphen"/>ſite Party will as confidently affirm, they are
+certain of the con<g ref="char:EOLhyphen"/>trary, becauſe they Judge contrary to the Doctrines,
+which, they are aſſur'd, are true, and only conformable to GOD's Holy
+Word.</p>
+            <p>The <hi>Zwinglian</hi> according to his ſenſe of Scripure,
+ſays, <hi>He is ſure</hi> Bucer <hi>was deluded, when he taught</hi>
+Lutheraniſm; The <hi>Lutheran</hi> from his Judgment of Scripture, avers the
+ſame aſſurance of his having Err'd, when he taught
+<hi>Zwinglianiſm;</hi> The <hi>Jew</hi> is as certain
+<pb n="6" facs="tcp:64982:4"/> that he was deceiv'd in both, and was then only
+in the right, when he embrac'd <hi>Judaiſm.</hi> Where does the Scripture
+ſay, <hi>Luther,</hi> you underſtand me right? you <hi>Zwinglius</hi> Err,
+or the contrary?</p>
+            <p>But methinks, I hear you tell me, that I have forgot with whom I
+argue; that yours is not a Religion of any one Man, but a Church
+Eſtabliſh'd by Law, that 'tis not only imprudence, but even impu<g ref="char:EOLhyphen"/>dence, to
+queſtion the Certainty and Truth of a Religion, pre<g ref="char:EOLhyphen"/>ſcrib'd by ſo
+<hi>Wiſe, Sincere,</hi> and <hi>Learn'd</hi> an Aſſembly, as that of an
+<hi>Engliſh</hi> Parliament. Very good; but am I not ſtill free to examine
+according to my own Senſe and Judgment, whether this Aſſembly ſpeak
+conformably to the ſenſe of the <hi>Holy Ghoſt?</hi> You reply, that I
+am, <hi>every Man of ſound Judgment being judge of Controverſies of
+Faith.</hi> What therefore, if according to the conviction of my
+Un<g ref="char:EOLhyphen"/>derſtanding, I am in my Conſcience perſwaded, that they have all
+Err'd, Holy Scripture ſeeming clear to me in the contrary ſenſe, Am I
+ſtill a true <hi>Proteſtant,</hi> while I Judge the Church of
+<hi>England</hi> to be a Spurious and Falſe Church? If ſo, then I am at the
+ſame time a <hi>Proteſtant,</hi> and no <hi>Protestant;</hi> if not, then a
+<hi>Man of ſound judge<g ref="char:EOLhyphen"/>ment,</hi> may ceaſe to be a compleat <hi>judge in
+Controverſy.</hi> If you Preach to me ſubmiſſion of Judgment and
+implicit Faith, you have left your Principles, and are become a
+<hi>Papist.</hi> O, but tho' I may ſecurely judge Ten whole <hi>Ages,</hi>
+and Twelve <hi>General Councels</hi> to have handed down to me a falſe
+ſenſe of Holy Scripture; yet I muſt by no means queſtion, but that now
+at laſt, an <hi>Engliſh</hi> Parlia<g ref="char:EOLhyphen"/>ment has hit upon the right: You may as
+rationally oblige a Man, his eyes being wide open, not to ſee at mid-day; but
+I muſt be<g ref="char:EOLhyphen"/>lieve, or away to Priſon, and undergo the ſevere Penalties of
+the Law; This goes hard. I would fain Conform, if it ſtood with my
+Conſcience: Let us therefore try for once, whether I can't in Pru<g ref="char:EOLhyphen"/>dence and
+Chriſtian Sincerity, ſecure my Soul by a Conformity to ſo advantagious a
+Judgment.</p>
+            <p>I find therefore in <hi>Henry</hi> VIII's time, an
+<hi>Engliſh</hi> Parliament crying down the <hi>Pope,</hi> and placing his
+Majeſty of <hi>England</hi> in his room; and yet I ſee the ſame Men
+perſecute as <hi>Hereticks,</hi> thoſe, who in other Points joyn'd with the
+<hi>Tranſmarin Innovators.</hi> In <hi>Edward</hi> VI's days, I find the
+ſame Men declare that Doctrine to be moſt damnable <hi>He<g ref="char:EOLhyphen"/>reſy,</hi>
+which themſelves had all along during the Reign of <hi>Henry</hi> VIII.
+profeſs'd as <hi>Catholick.</hi> Queen <hi>Mary</hi> being ſeated on the
+Throne, I find them Recanting, and Condemning themſelves, and cenſuring all
+the Points of <hi>Proteſtancy</hi> as Wicked and Heretical: and within ſix
+years after, I ſee them again paſs the ſame Cenſure on the <hi>Roman
+Catholick</hi> Doctrine, to which they had ſo lately and ſolemnly been
+reconcil'd.</p>
+            <p>
+               <pb n="7" facs="tcp:64982:4"/> Now, give me leave <hi>(Chriſtian Reader)</hi>
+to ask you; can I with a ſafe Conſcience, leave a Church whoſe
+<hi>General Councils, Lawfully Aſſembled,</hi> and <hi>approv'd</hi> (by
+which I govern my ſelf) have not in 1600 years produc'd, (as I can find) any
+one contradiction in mat<g ref="char:EOLhyphen"/>ters of <hi>Faith,</hi> to depend upon Parliamentary
+Creeds, four times wholly inverted in ſixteen years? Can I in Prudence and
+Conſci<g ref="char:EOLhyphen"/>ence renounce the former, to embrace the latter? Give me but one
+pregnant Reaſon for this, and I engage to become your Pro<g ref="char:EOLhyphen"/>ſelite.</p>
+            <p>If you tell me, one Parliament was guided by Paſſion, another
+by Intereſt; but that 'twas Queen <hi>Elizabeths</hi> Parliament, which
+conſiſted of Men according to the Spirit of GOD: Is not this a<g ref="char:EOLhyphen"/>gain a
+manifeſt begging of the Queſtion? Where does the <hi>Bible</hi> (for at
+preſent, as a good <hi>Proteſtant,</hi> I admit of no other Rule) where, I
+ſay, does the <hi>Bible</hi> tell me, that the Parliament of Queen
+<hi>Elizabeth</hi> ſhould be guided by the Holy Spirit, and not that of King
+<hi>Henry</hi> VIII. <hi>&amp;c.</hi> If you ſhall return to your old
+Evaſion, that you are ſure on't, becauſe you find that Parliament agree
+with your own Judgment; thoſe, who liv'd in King <hi>Henry</hi>'s days, will
+on the ſame ground of pure Scripture tell me quite another ſtory: How then
+can I be ſatisfied, which of your Judgments is true? You will anſwer me, I
+muſt judge for my ſelf. What therefore, if accor<g ref="char:EOLhyphen"/>ding to my ſenſe of
+Holy Scripture, I judge in my Conſcience (as in the preſence of Almighty
+GOD I truly do) that King <hi>Henry</hi> VIII's Parliament was
+<hi>Schiſmatical,</hi> Queen <hi>Elizabeth</hi>'s <hi>Heretical,</hi> and
+this (as indeed it falls out) after a ſerious, long, calm,
+diſ-in<g ref="char:EOLhyphen"/>tereſs'd Examen, am I ſtill a <hi>True Proteſtant?</hi> You
+muſt grant me to be one, becauſe I follow the <hi>Proteſtant Rule,</hi>
+which is (as you ſay) <hi>Holy Scripture,</hi> as every one after the uſe
+of due means, does in his own proper judgment underſtand it. What can be more
+ri<g ref="char:EOLhyphen"/>diculous than this? I am a <hi>True Proteſtant,</hi> at leaſt in my
+Princi<g ref="char:EOLhyphen"/>ples, tho' by thoſe very Principles, I judge the <hi>Protestant
+Church</hi> to be <hi>Schiſmatical</hi> and <hi>Heretical</hi>
+            </p>
+         </div>
+         <div type="dialogue">
+            <head>
+               <hi>The Great Extent of</hi> Proteſtant <hi>Charity; Or,
+a</hi> Dialogue <hi>between</hi> Eudoxius <hi>and</hi> Philautus,
+<hi>concerning the</hi> Proteſtant Rule of Faith; <hi>ſhewing it to be an
+in-let, not only to all</hi> Hereſy, <hi>but even to</hi> Turciſm,
+Judaiſm, <hi>and</hi> Atheiſm <hi>it ſelf.</hi>
+            </head>
+            <sp>
+               <speaker>Eudoxius.</speaker>
+               <p>I Shall not, Sir, I hope, offend you by propoſing you a few
+Doubts concerning your <hi>Proteſtant</hi> Rule of Faith: which is <hi>holy
+Scripture, as underſtood by every ſound judgment.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="8" facs="tcp:64982:5"/> Philautus,</speaker>
+               <p>
+                  <hi>So far from it, Sir, that on the contrary, you will very
+much oblige me.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Eu.</speaker>
+               <p>Reading lately, Sir, the Works, publiſh'd by the firſt
+Lights of your pretended Reformation, who all give us the ſame Rule of Faith,
+I diſcover'd in them a wonderful Spirit of Contradiction; and found, that
+they not only differ'd the one from the other in matters of Faith, but that the
+ſame Men diſſented from themſelves; now teaching one Doctrine, then
+another.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <hi>When you ſhall have prov'd your Aſſertion, I will
+return you a ſatisfactory Anſwer.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Eu.</speaker>
+               <p>
+                  <hi>Luther</hi> in his Book <hi>De Poteſtate Papae,</hi>
+teaches, that there are ſeven Sacraments; <hi>De Captivitate Babylonica,</hi>
+that there are only three; <hi>ad Waldenſes,</hi> only two; and again <hi>de
+Captivitate Ba<g ref="char:EOLhyphen"/>bylonica,</hi> that according to Holy Scripture there is but
+one. In his Sermon of the <hi>Euchariſt,</hi> he tells us, that in the
+Sacrament of the <hi>Altar,</hi> there is neither Bread nor Wine, but only the
+Species or appearance of them; yet in his Book againſt the King of
+<hi>Eng<g ref="char:EOLhyphen"/>land</hi> he aſſerts, That he is wicked and a Blaſphemer, who
+ſays, The Bread is changed into the ſubſtance of CHRIST's Body.
+Concerning the <hi>Popes</hi> Power he affirms in his Book <hi>de Poteſtate
+Papae,</hi> That, if it were not <hi>Jure Divino,</hi> and from GOD, it could
+never have ſubſiſted ſo long; and yet in his Treatiſe <hi>de
+Captivitate Baby<g ref="char:EOLhyphen"/>lonica,</hi> he often repeats, That he is certain, the Power
+of the <hi>Pope</hi> is the Kingdom of <hi>Babylon. In Diſputatione
+Lipſienſi,</hi> he ſays, I do not only believe, but certainly know, that
+there is a <hi>Purgatory;</hi> and yet <hi>de Abrogandâ
+Miſſâ,</hi> he tells us, 'Tis more ſecure to deny
+<hi>Pur<g ref="char:EOLhyphen"/>gatory.</hi> I have Sir, to the number of threeſcore ſuch
+Contradicti<g ref="char:EOLhyphen"/>ons out of this one Author, the firſt and greateſt Light of the
+Reformation; and near as many out of <hi>Calvin, Beza,</hi> &amp;c. Now I
+deſire to know, how I may be aſſur'd, which part of the Contra<g ref="char:EOLhyphen"/>diction is
+conformable to Divine Revelation, which otherwiſe.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <hi>Of contradictory Doctrines, you may ſafely hold that to be
+true, which after a ſerious and due examin, appears to you agreeable to holy
+Scripture.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Eu.</speaker>
+               <p>But what, if another be convinc'd of the oppoſite?</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <hi>He is bound to believe, as he comprehends it, however
+different his belief may be from yours.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Eu.</speaker>
+               <p>And ſhall each of us be aſſured, he has Divine Faith,
+rela<g ref="char:EOLhyphen"/>ting to ſuch a Myſtery, tho' we evidently contradict one another?</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <q>I do not ſay, you ſhall each of you have Divine Faith
+con<g ref="char:EOLhyphen"/>cerning that particular point, in which you differ; but that each of you
+may ſafely hold that ſide of the Contradiction, which he verily believes to
+be true, provided you both proceed with ſin<g ref="char:EOLhyphen"/>cerity, and are neither of you
+blinded with Paſſion: For the Arti<g ref="char:EOLhyphen"/>cle
+<pb n="9" facs="tcp:64982:5"/> may perhaps be of ſuch a Nature, that
+there will be no ne<g ref="char:EOLhyphen"/>ceſſity for either of you to believe it with Divine
+Faith.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Eu.</speaker>
+               <p>What then ſay you of a <hi>Quaker,</hi> who, grounding
+himſelf on his own ſenſe of Holy Scripture, believes Baptiſm as
+imperti<g ref="char:EOLhyphen"/>nent and ſuperſtitious, as you do the uſe of <hi>Holy
+Water?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <hi>I ſay, the</hi> Quaker, <hi>ſo believing, proceeds not
+with Sincerity and without Paſſion.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Eu.</speaker>
+               <p>How will you make it appear, that you are the only Men, who
+proceed ſincerly; and that all, which contradict you, are miſ<g ref="char:EOLhyphen"/>led and
+blinded by Paſſion, or the like.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <hi>I don't ſay, all, who contradict me, are ſo
+miſled.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Eu.</speaker>
+               <p>They may then contradict you, and not be miſled?</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <q>Herein our Charity is greater than yours: for, as we ar<g ref="char:EOLhyphen"/>rogate
+not to our ſelves Infallibility, ſo conſequently we condemn not all, that
+are of a contrary perſwaſion to our ſelves; but al<g ref="char:EOLhyphen"/>low Salvation to any,
+who reading the Holy Scripture, ſhall be<g ref="char:EOLhyphen"/>lieve ſo much, ſo far, and in
+that ſenſe, they humbly conceive, it ought to have.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Eu.</speaker>
+               <p>So that, if to day I underſtood the Bible in one ſenſe, to
+morrow in another; uſing always equal Diligence and Sincerity, I ſhall
+always be in the right.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <hi>I ſay not, that you will always be in the right; but that
+you will not be accountable to GOD for any Errour, as long as you judge
+accor<g ref="char:EOLhyphen"/>ding to Conſcience.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Eu.</speaker>
+               <p>But what, if I govern my Conſcience by a falſe Principle?
+what, if Almighty GOD has laid upon all Chriſtians an obligati<g ref="char:EOLhyphen"/>on of
+ſubmitting their private Judgment to the Univerſal deter<g ref="char:EOLhyphen"/>mination of the
+Church?</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <hi>What, if the Sky ſhould fall? There is nothing ſo
+evident, as that every Man of a ſincere will and ſound judgment, uſing
+due endea<g ref="char:EOLhyphen"/>vour, will clearly ſee in Scripture, whatſoever is neceſsary
+for him to be<g ref="char:EOLhyphen"/>lieve, or do, that he may obtain eternal life.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Eu.</speaker>
+               <p>Notwithſtanding this your Evidence of Scripture, many (for
+ought we can diſcern) of equal Probity, Learning, and Di<g ref="char:EOLhyphen"/>ligence, have
+delivered contradictory Doctrines from the ſame Text of Holy Writ.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <hi>Not in material Points, or in the Fundamentals or
+Eſſentials of Faith.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Eu.</speaker>
+               <p>Sir, I can make it appear, that there is no one Point of Faith,
+which has not been deny'd by ſuch, as have conſtantly pre<g ref="char:EOLhyphen"/>tended to follow
+the Guidance of Holy Scripture. <hi>Apollinaris</hi> taught,
+<q>That our Saviour had no <hi>Soul</hi> diſtinct from his
+Divi<g ref="char:EOLhyphen"/>nity;</q> 
+                  <hi>Manichaeus,</hi>
+                  <q>That there were from all Eternity two Prin<g ref="char:EOLhyphen"/>ciples or
+Deities;</q> The <hi>Anti-trinitarians,</hi>
+                  <q>Oppugned the Myſtery
+<pb n="10" facs="tcp:64982:6"/> of the Bleſſed Trinity; the
+<hi>Origeniſts</hi> and <hi>Millenaries</hi> deny'd Ever<g ref="char:EOLhyphen"/>laſting Life and
+Death; <hi>Eutyches,</hi> affirm'd, There were not two Natures in CHRIST;
+<hi>Neſtorius,</hi> That the Divine and Humane Nature were not truly united,
+but only in a moral or eminential manner; the <hi>Arians</hi> made the ſecond
+Perſon inferiour to the firſt, and a Creature.</q> All theſe, I hope, are
+material Points of Faith; yet were they all opugned by Men, who (for any thing,
+can be made out to the contrary) Read and Study'd the Holy Scriptures with as
+much Sincerity, Diligence, Learning and Piety, as any of the late Reformers. I
+deſire therefore to know, whether theſe Men were part of the true
+<hi>Chatholick Church?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <hi>If it could be credibly made out, that they proceeded with
+Sin<g ref="char:EOLhyphen"/>cerity, and Piety, I ſhould be unwilling to exclude them the
+Church.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Eu.</speaker>
+               <p>The contrary can't be prov'd againſt them without begging the
+Queſtion. If you ſay, they wanted Sincerity, Learning, Piety, Diligence,
+<hi>&amp;c.</hi> they will diſown the Charge, and return it upon your ſelf.
+Give me therefore one convincing Reaſon, why I may not believe them as well
+as you.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <hi>So you believe according to conſcience, I ſhall not
+judge, nor condemn you.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Eu.</speaker>
+               <p>At leaſt, what you juſt now aſſerted, is falſe,
+<hi>viz.</hi> that one, who acts Sincerly, cannot err in things, neceſſary
+to Salvation, by reaſon of the Clearneſs and Evidence, they have from Holy
+Scrip<g ref="char:EOLhyphen"/>ture.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <hi>I won't be poſſitive concerning thoſe, that liv'd in
+former Ages, of whom we have but a dubious and ſlender knowledge; at leaſt
+'tis mani<g ref="char:EOLhyphen"/>feſt by the experience of the preſent Times, that the Scripture
+is clear in all things, neceſſary to Salvation, and of this, all
+Proteſtants are agreed.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Eu.</speaker>
+               <p>There are then among Proteſtants no Hereticks and
+Unbe<g ref="char:EOLhyphen"/>lievers?</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <hi>Not amongst true ones.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Eu.</speaker>
+               <p>Amongſt thoſe, who carefully, diligently, and ſincerely
+read the Scripture?</p>
+            </sp>
+            <sp>
+               <speaker>Phill.</speaker>
+               <p>
+                  <hi>No.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Eu.</speaker>
+               <p>How comes it then to paſs, that <hi>Luther</hi> calls the
+<note n="a" place="margin">Hereticos ſeriò cenſe<g ref="char:EOLhyphen"/>mus,
+&amp; a<g ref="char:EOLhyphen"/>lienos ab Eccleſiâ Dei. 1. con. Sacr.</note>
+                  <hi>Zwin<g ref="char:EOLhyphen"/>glians,</hi> and <hi>Sacramentarians,</hi> who deny'd the Real
+Preſence, <hi>Here<g ref="char:EOLhyphen"/>ticks, poyſon'd by the Devil, ſeperate from the</hi>
+Church <hi>of</hi> CHRIST,
+<note n="b" place="margin">Aurif. vit. de Heret.</note>
+                  <hi>poſſeſt, repoſſeſt, through poſſeſt, and over and again
+poſſeſt with the Devil,</hi> Diabolatos, perdiabolatos,
+tranſdiabolatos, ſuperdiabo<g ref="char:EOLhyphen"/>latos; and that he ſays, <hi>I proteſt
+before GOD and the World, that I</hi>
+                  <note place="margin">Epiſt. ad Harmogin. <hi>To 7. Wit. fol.
+380.</hi>
+                  </note> 
+                  <hi>agree not with them,</hi> (the <hi>Sacramentarians,</hi>
+which is our Religion of <hi>England) nor ever will, while the World
+ſtandeth, but will have my hands clear from the blood of thoſe Sheep, which
+theſe Hereticks drive from</hi>
+                  <pb n="11" facs="tcp:64982:6"/> CHRIST, <hi>deceive, and kill. Munſter</hi>
+and <hi>Caroloſtadius,</hi> two great Pillars of the Reformation, he calls
+<hi>furious Devils. Calvin</hi> on the contrary, ſpeaking of the
+<hi>Lutherans,</hi> ſays,
+<note n="d" place="margin">Ult. adm <hi>Jo Cav.</hi> ad <hi>Joac.
+Weſtp.</hi> &amp;c.</note> 
+                  <hi>That they neither care for the Judgement of
+GOD nor Angels, that they are men indu'd with a Devilliſh Pride, a Doggiſh
+wickedneſs, and blind Drunkenneſs;</hi> that they are nothing but <hi>Mad
+Barkers, Giants, Cyclops,</hi> &amp;c.
+<note n="e" place="margin">In libell. edit. in exil.</note>
+                  <hi>Heſhuſius</hi> pronounces of <hi>Melancthon,</hi> and the
+<hi>Wittembergians,</hi> that they are <hi>entirely out of the Church.</hi>
+                  <note n="f" place="margin">In Epiſt. ad Nob. Pol.</note>
+                  <hi>Beza</hi> proclaims of the <hi>Anabaptiſts,</hi> that <hi>they are
+Blaſphemers of Almighty GOD, and held three GODS.</hi> The
+<hi>Baſilienſes</hi> declare of <hi>Caroloſtadius,</hi> that he was
+<hi>the Plague of the</hi> Church, <hi>and was kill'd by the Devil:</hi>
+                  <note n="g" place="margin">In Collat. Doct. Aris &amp;
+Melanc.</note> 
+                  <hi>Stancha<g ref="char:EOLhyphen"/>rus</hi> of <hi>Melancton,</hi> that he was an
+<hi>Arian, and the Anti-chriſt of the North, and Diſtuber of all</hi>
+Chriſtianiſm.
+<note n="h" place="margin">Vid. Cyechorit. paſſim in ſuis
+libris.</note> 
+                  <hi>Castalio,</hi> ſpeaking of the <hi>Calviniſt,</hi> calls
+them <hi>Proud, Furious, Haughty Hereticks,</hi> ſaying that <hi>Geneva</hi>
+is <hi>Babylon,</hi> the <hi>Miniſters Sorcerers, Conjurers, Sons of</hi>
+Sodom <hi>and</hi> Gomorha.</p>
+               <p>Here Sir, I deſire to ask one Queſtion, <hi>viz.</hi>
+whether or no you receive into the number of common Chriſtianity, and
+Catholick Union, thoſe, who (in the Judgment of the prime Lights of the
+Goſpel, and the firſt choſen by <hi>GOD</hi> to Reform the North) are
+<q>Hereticks, poſſeſt, and repoſſeſt by the Devil,
+Devils in humane ſhape, without the fear of <hi>GOD,</hi> Blaſphemers,
+Arians, Anti<g ref="char:EOLhyphen"/>chriſts, Corrupters of common Chriſtianity, Furious, Haughty,
+Giants, Conjurers, Sorcerers, Soddomites <hi>and</hi> Gomorrhaeans?</q> It
+ſeems to me, you muſt, becauſe all theſe Men were true Proteſtants;
+and true Proteſtants, you ſay, make the true Church. They were true
+Proteſtants, becauſe they all adhear'd to the Holy Scripture, in ſuch
+ſenſe, as they themſelves underſtood it, refuſing all other Judges,
+and proteſting againſt all other Power on Earth, which ſhould pretend to
+oblige a Chriſtian to ſubmit his own Judg<g ref="char:EOLhyphen"/>ment of Scripture, to a contrary
+Interpretation of the Church, if the Church ſhould ſeem to him not to teach
+conformably to that ſenſe of Scripture which he ſhould verily believe to
+be true.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <q>I have already told you, that I'll Judge no Man: if they us'd
+the Diligence, Sincerity, Piety, and Learning, we require, 'tis certain they
+could not err damnably.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Eu.</speaker>
+               <p>They will all not only ſay, but ſwear alſo, that they have
+omitted no endeavours of Diligence or Pious means. They are all (in their own
+conceits) ſure they are in the right, and that thoſe, who differ from them,
+are deluded, blinded with Paſſion, byas'd by Intereſt, or the like. Give
+me, Sir, an Infallible Rule, where<g ref="char:EOLhyphen"/>by I may know, which of them have the Spirit
+of Truth, which the contrary?</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="12" facs="tcp:64982:7"/> Phil.</speaker>
+               <p>
+                  <q>I tell you once again, let GOD Judge them. I meddle with none
+of them: 'tis not my Affair, I am certain, I am in the right.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Eu.</speaker>
+               <p>Under favour, Sir, I think this a Demonſtration, that eve<g ref="char:EOLhyphen"/>ry
+Proteſtant Church is at the ſame time, according to your own Principles,
+both in the true Church, and out of the true Church, and conſequently neither
+<hi>in</hi> nor <hi>out,</hi> which is a meer <hi>Chimera.</hi> I thus prove my
+Aſſertion. Every Proteſtant Church is a true Church, becauſe her
+Members of <hi>ſound judgment</hi> are fit Judges in <hi>Controverſies of
+Faith by Scripture,</hi> which alone they follow, and which is clear in all
+things, neceſſary to Salvation. Every Proteſtant Church is alſo a
+<hi>falſe</hi> Church, becauſe thoſe Churches, which are by <hi>Members
+of ſound judgement,</hi> governing themſelves by Scripture, judg'd
+<hi>Heretical, Blaſphemers, Anti-chriſtian,</hi> and <hi>Diabolical,</hi>
+muſt needs be <hi>falſe</hi> Churches: But, as I have ſhewn above, there
+is no particular Proteſtant Church, which has not by ſome other parti<g ref="char:EOLhyphen"/>cular
+Proteſtant Church been ſo call'd, repreſented, and believ'd: therefore
+every Proteſtant Church is <hi>falſe.</hi> Thus is every Prote<g ref="char:EOLhyphen"/>ſtant
+Church both <hi>true</hi> and <hi>falſe,</hi> and conſequently Church and
+no Church; which, as I ſaid before, is a meer <hi>Chimera.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <q>Hold, Sir, not ſo faſt: I have let you ramble long enough;
+'tis now time to take you up. You have, Sir, I perceive, forgot what I told you
+in the beginning of our Diſcourſe; that the Point, concerning which the
+difference is, may perhaps be of ſuch a Nature, that there is no
+neceſſity of believing it with Di<g ref="char:EOLhyphen"/>vine Faith; that is, it may perhaps be
+none of the Eſſentials or Fundamentals of Faith.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Eu.</speaker>
+               <p>There may therefore be <hi>Heretical, Blaſphemous,
+Anti-chriſtian,</hi> and <hi>Diabolical Doctrines,</hi> taught by <hi>ſound
+Chriſtians</hi> remaining in the <hi>Communion</hi> of the <hi>H. Catholick
+Church;</hi> becauſe all theſe Characters are conſiſtent with the
+<hi>Fundamentals</hi> of Chriſtianity; oblige me therefore, ſo far, as to
+give me aLiſt of theſe all-ſaving <hi>Fundamentals.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <q>That, Sir, is not ſo eaſy as you imagin: for by reaſon
+of Mens different Capacities and Apprehenſion, that may be ne<g ref="char:EOLhyphen"/>ceſſary to
+one Perſon, which is not ſo to another: ſo that to require ſuch a
+Liſt of me, is to bid me ſhape a Coat for the Moon, which (ſhe being
+never at a ſtay, but always either increaſing or decrea<g ref="char:EOLhyphen"/>ſing) is utterly
+impoſſible. This only you may rely on, as a cer<g ref="char:EOLhyphen"/>tain truth, that nothing
+can be a Fundamental or Eſſential Point of Faith, which is not clearly
+deliver'd in Holy Writ. Nor can there be any greater Evidence of a Points being
+clearly taught in Scripture, than that Learned and Pious Men after a diligent
+ſearch, and the uſe of due means, differ not about it.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="13" facs="tcp:64982:7"/> Eu.</speaker>
+               <p>I ſee then, Sir, by this your Doctrine, that a Man may without
+endangering his Salvation, deny all theſe Articles, I have hitherto been
+taught to be the principal Points of Chriſtianity.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <q>Sir, what you may have been taught, I know not: but ſince
+you preſs me ſo cloſe, give me leave to tell you with the Learned Mr.
+<hi>Chillingworth,</hi> that, if you mean by Fundamental, what is neceſſary
+to be explicitly believed by every one for the obtaining of Eternal Life; there
+is perhaps nothing ſo, but <hi>that there is a GOD, and that</hi> JESUS
+CHRIST <hi>came to ſave fin<g ref="char:EOLhyphen"/>ners;</hi> and that whoever, holding this
+Foundation, ſhall be ready to ſubmit his Belief to all, that he ſhall
+find reveal'd in Scripture, taken in ſuch ſenſe, as he himſelf ſhall
+after the uſe of due means Judge to be true, can never err damnably, nor
+conſequently ceaſe to be a Member of that Church, out of which there is no
+Salvation.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Eu.</speaker>
+               <p>I muſt confeſs Sir, that your Charity is of a very vaſt
+ex<g ref="char:EOLhyphen"/>tent: For by this your Doctrine, all thoſe, who were by the Fa<g ref="char:EOLhyphen"/>thers in
+the Primitive Church, and the firſt General Councils con<g ref="char:EOLhyphen"/>demned as notorious
+Hereticks, ought not to be excluded the <hi>Pale</hi> of the Church. But pray
+Sir, what would you ſay to one, who having read the Holy Scripture with all
+poſſible Diligence, and conſider'd not only the many Contradictory
+Opinions, held by Men pretending to no other Rule, but alſo the poſſitive
+Aſſertion of Proteſtants; that all viſible Churches for a thouſand
+years have been Erroneous and Falſe, and that all the Signs, Prodigies, and
+Miracles, wrought by pretended <hi>Catholicks,</hi> (as you are pleas'd to call
+us,) were nothing but Impoſters and Cheats,; that there was no true
+Holineſs in all our Saints, nor any Faith to be given to our Fathers. How
+far, Sir, I ſay, would your Charity extend to one, who, after a thorow
+Conſideration of all this, ſhould with the <hi>Turks</hi> remain
+perſwaded, that as <hi>Moſes</hi>'s Law was aboliſht by the coming of our
+Lord and Saviour JESUS CHRIST, ſo the Chri<g ref="char:EOLhyphen"/>ſtian Law was to have an end at
+the coming of <hi>Mahomet,</hi> who was according to their Doctrine, a Prophet
+ſent by God to that pur<g ref="char:EOLhyphen"/>poſe, and as far exceeded CHRIST, as CHRIST did
+<hi>Moſes;</hi> and being thus perſwaded, ſhould follow the Example of
+<hi>Adam Neu<g ref="char:EOLhyphen"/>ſerus,</hi> a moſt Learned Proteſtant, and chief Paſtor of
+<hi>Heidelberg,</hi>
+                  <note place="margin">Oſiand. <hi>Cant.</hi> p. 16.</note> who
+became a <hi>Mahometan,</hi> and was Circumcis'd at <hi>Conſtantinople</hi>
+with many of his Flock.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <q>Since I am, Sir, as I have already told you, to judge of my
+Neighbour with Charity, I find no reaſon, why I may not allow Salvation to
+ſuch a Man, acting ſincerely; eſpecially ſee<g ref="char:EOLhyphen"/>ing he holds the
+Foundation, that <hi>there is a GOD, and that IESVS CHRIST came to ſave
+ſinners.</hi>
+                  </q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="14" facs="tcp:64982:8"/> Eu.</speaker>
+               <p>I ſee then, Sir, that he was not altogether miſtaken, who
+affirm'd <hi>Proteſtancy</hi> and <hi>Turciſm</hi> to be very near of kin.
+What would you think of another, who, believing the <hi>Alcoran</hi> to be (as
+indeed it is) nothing but the Dreams of a Blaſphemous Impoſtor, and hearing
+your Opinion of the Miracles, wrought during the laſt ten Ages, ſhould from
+thence, and from the many ſeeming Con<g ref="char:EOLhyphen"/>tradictions, not eaſily reconcil'd,
+between the <hi>Old Teſtament</hi> and the <hi>New,</hi> between Goſpel and
+Goſpel, really in his Conſcience believe all Chriſtianity to be a Cheat,
+and the Four <hi>Evangeliſts</hi> Four <hi>Impoſtors;</hi> and ſhould
+therefore, as befel the Learned <hi>Proteſtant Allemannus,</hi> judge it his
+ſafeſt courſe to embrace <hi>Judaiſm?</hi> This Man is of a ſound
+Judgment, reads Scripture, examins diligently, and
+<note place="margin">
+                     <hi>Schluſſel<g ref="char:EOLhyphen"/>berg. de Theol.</hi> Cal.
+<hi>fol.</hi> 9.</note> ſincerely according to his Judgment of Scripture,
+believes all <hi>Chriſtians</hi> either Cheats or Fools, animated by your
+example, who believe the ſame of the laſt Ten Ages.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <q>If this caſe be poſſible, I ſee not how I can in
+Charity pronounce ſuch a Man condemn'd to Eternal Torments.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Eu,</speaker>
+               <p>Once more, Sir, what would you ſay of another, that ſhould,
+after all private diligence poſſible in reading of Scripture, grounding
+himſelf on your Aſſertion of the laſt Ten Ages, having produc'd nothing
+but <hi>Impoſtors,</hi> and conſidering, that all the Ar<g ref="char:EOLhyphen"/>guments, you bring
+againſt Miracles in the <hi>Roman</hi> Church, may equally be alledg'd
+againſt thoſe of <hi>Moſes,</hi> and our Saviour, ſhould remain
+convinc'd, that the Creation of the World, the Wonders of <hi>Exodus,</hi> and
+all the other ſurprizing Stories, related in Holy Writ, are meer Fables, and
+conſequently that Religion is only a pure invention of States-men, Politickly
+deviſed to keep Man<g ref="char:EOLhyphen"/>kind in aw; and in fine, queſtion the very Being of a
+Deity?</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <hi>Sir, I have often told you, Iudge no Man.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Eu.</speaker>
+               <p>So that <hi>Heretieal, Blaſphemous, Anti-chriſtian,
+Diabolical, Tur<g ref="char:EOLhyphen"/>kiſh, Iewiſh, Heatheniſh, Atheiſtical</hi> Doctrines,
+undergo no cenſure from a true <hi>Protestant</hi> than the which, what can
+be granted more deſtructive to Chriſtianity?</p>
+            </sp>
+         </div>
+         <div type="paradoxes">
+            <head>
+               <hi>Unheard of</hi> PARADOXES, <hi>following from the</hi>
+Pro<g ref="char:EOLhyphen"/>teſtant Rule <hi>of</hi> Faith.</head>
+            <p n="1">1 <hi>Paradox.</hi> WHen <hi>Luther</hi>'s Conſcience
+checkt him in the terms he expreſſeth,
+<note n="a" place="margin">Lut. <hi>to.</hi> Ger. fol. 9 <hi>&amp;
+
+to.</hi> 2. Wittem. 1562. <hi>&amp; alibi.</hi>
+               </note>
+               <q>How often did my trembling heart beat within me, and
+reprehending me, object againſt me that moſt ſtrong Argument, art thou
+only wife? Do ſo many Worlds Err? Were ſo many Ages Ignorant?</q> What if
+thou Erreſt, and draweſt ſo many into Errour with thee to be damn'd
+Eternally. And again,
+<note n="b" place="margin">Luth. <hi>to.</hi> 5. Wittem. <hi>in</hi>
+Galat. fol. 290. <hi>&amp; in</hi> Coll. Menſal. fol 273.</note>
+               <q>Doſt thou, O ſole Man, and of no ac<g ref="char:EOLhyphen"/>count
+<pb n="15" facs="tcp:64982:8"/> take upon thee ſo great matters! What if
+thou being but one, offendeſt! If God permit ſuch, ſo many, and all to
+Err, why may he not permit thee to Err.</q>
+               <note n="c" place="margin">Luth. <hi>to.</hi> 7. Wittem. <hi>an 1558.
+&amp; to.</hi> 6. Ger. fol. 26. <hi>&amp; ali<g ref="char:EOLhyphen"/>is in</hi> Locis.</note>
+               <q>Hitherto appertain thoſe ſtrong Arguments the Church, the
+Fathers, the Concils, the Cuſtoms, the Multitudes, and Greatneſs of Wiſe
+Men, (who have taught the oppoſite Doctrine to mine.)</q>
+               <note n="d" place="margin">
+                  <hi>In col.</hi> menſal. 158. &amp;
+<hi>in prof. in to.</hi> Ger. f. 9.</note>
+               <q>That I had never begun this buſineſs. <hi>[e]</hi> That my
+Writings were burnt, and bury'd in Eternal Oblivion.</q> A true
+<hi>Proteſtant</hi> believes, that <hi>Luther</hi> did Prudently and
+Piouſly ſtifle all theſe remorſes of his Conſcience, and that he was
+endu'd with the Spirit of God, when he ſaid,
+<note n="f" place="margin">
+                  <hi>Tom. 5.</hi> Wittem. <hi>an</hi> 1554.
+fol. 290. <hi>&amp; in</hi> Ep..<hi>ad</hi> Gal. c.</note>
+               <q>Be it that the <hi>Church, Auſtin,</hi> and other Doctors,
+alſo <hi>Peter</hi> and <hi>Paul,</hi> yea that an Angel from Heaven teach
+other<g ref="char:EOLhyphen"/>wiſe, yet is my Doctrine ſuch as ſetteth forth God's only Glory.
+<hi>Peter</hi> the chief of the Apoſtles, did live and teach beſides the
+word of God.</q>
+            </p>
+            <p>Now dear Chriſtian what Judgment can be more raſh, injurious
+and contrary to Chriſtian Charity, than to aſſert that ſo many Ho<g ref="char:EOLhyphen"/>ly
+and Learned Doctors as have been, and are confeſſed <hi>Papiſts</hi> (and
+even the whole viſible Church for the ſpace of at leaſt a thouſand
+years) could either ignorantly miſtake, or would wilfully forſake the true
+ſenſe of God's word ſo clearly ſhining in Scripture, as every petty
+<hi>Proteſtant</hi> doth pretend? what ſo repugnant to Chri<g ref="char:EOLhyphen"/>ſtian
+modeſty and ſimplicity, as for a Man to prefer his own pri<g ref="char:EOLhyphen"/>vate Opinion to
+the Deciſſions of General Councils, Torrents of Fathers, Clouds of
+Witneſſes, and the Univerſal Tradition of ſo many Ages.</p>
+            <p n="2">2 <hi>Paradox.</hi> A true <hi>Protestant</hi> believes,
+that Almighty God ha<g ref="char:EOLhyphen"/>ving
+<note place="margin">
+                  <hi>a Loc. com.</hi> Claſſ. 4. pag.
+50.</note> a deſign to Reform his Church, made uſe of <hi>Luther,</hi>
+haunted by the <hi>Devil</hi> from a Child; to avoid whoſe moleſtations, he
+be<g ref="char:EOLhyphen"/>came Religious, and was quiet till he threw off his Habit, and held
+Sacrilegious commerſe with a <hi>Nun;</hi> when again the <hi>Devil</hi>
+return'd really, not imaginarily to him. Of <hi>Calvin,</hi>
+               <note n="b" place="margin">Scluſſel. <hi>Hier. Bols. an. 1577.
+Defence of the cenſur,</hi> fol. 81. 8.</note> who beſides the keeping a
+Gentleman of <hi>La-anna</hi>'s Wife, was ſentenc'd at <hi>Noyon</hi> in
+<hi>France,</hi> to be publickly branded in the Shoulder, for ſins not to be
+named, as was Regiſtred by Mr. <hi>Bertilier</hi> Secretary of the Coun<g ref="char:EOLhyphen"/>cil
+of <hi>Geneva,</hi> under a ſworn <hi>Notaries</hi> hand.
+<note n="c" place="margin">Ibid. <hi>fol.</hi> 86. 87, &amp;c.</note>
+Of <hi>Beza,</hi> who liv'd in wickedneſs with <hi>Andebertus</hi> a Boy;
+with <hi>Candida</hi> a Har<g ref="char:EOLhyphen"/>lot, who ran away with a Taylors Wife, that dwelt
+in <hi>Calender<g ref="char:EOLhyphen"/>ſtreet</hi> in <hi>Paris,</hi> and kept another Woman called
+<hi>Claudia,</hi> whoſe Child he kill'd to cover the ſin. Of
+<note n="d" place="margin">
+                  <hi>See the</hi> Stat. <hi>an.</hi> 28.
+Henic. 7. 1536.</note> 
+               <hi>Cranmer,</hi> who two ſeveral times at leaſt,
+Marry'd King <hi>Henry</hi> the Eighth, and as often decla<g ref="char:EOLhyphen"/>red the ſaid
+Marriage Null.
+<note n="e" place="margin">
+                  <hi>Dr.</hi> Heyl. Fox, &amp;c.</note>
+Beſides his own marrying againſt his Oath when a Fellow at
+<hi>Cambridge,</hi> and afterwards,
+<note n="f" place="margin">Schi. <hi>Angl.</hi> p. 216.</note> when
+Biſhop, carried his Wench along with him in his Epiſcopal Viſitations.
+<pb n="16" facs="tcp:64982:9"/> Of <hi>Poynet,</hi> who went to Law with a
+Butcher for his Wife, having then another Wife living. Of
+<note n="g" place="margin">Bale <hi>of hemſelf,</hi> Cent. 5.
+245.</note> 
+               <hi>Bale,</hi> who was inſpir'd to take a ſweet-heart called
+<hi>Doll.</hi>
+            </p>
+            <p>All of them men without <hi>Miſſion,</hi> either
+<hi>Ordinary</hi> (as not being ſent by any Lawful Power upon Earth) or
+<hi>Extraordinary,</hi> that is particularly Delegated from Heaven, as not
+having all of them together (as <hi>Eraſmus</hi> well objected) power of
+<hi>Miracles,</hi> even ſo far as to cure a Lame Horſe. And that they had
+neither command over <hi>Devils,</hi> Gift of Tongues, Spirit of Propheſy, or
+any Super<g ref="char:EOLhyphen"/>natural Grace whatever. Yet theſe men are believed by a true
+<hi>Proteſtant,</hi> to have been Veſſels of Election, choſen by
+Almighty God, to Reform the World; men endu'd with a Divine Spirit, and that
+<hi>Austin,</hi> Apoſtle of our Countrey, <hi>Boniface</hi> ſent hence with
+Twelve Companions, to the Converſion of <hi>Germany; Willebrord,</hi> ſent
+with as many to the Converſion of <hi>Brabant, Freez-land, Ize<g ref="char:EOLhyphen"/>land, &amp;c.
+Monks</hi> of exquiſite Learning, Irreproachable Behaviour, Unſpotted
+Innocency, Saint-like Converſation, Gifted from above with all ſupernatural
+Graces, Power of <hi>Miracles,</hi> and moſt of which ſealed their
+irreprehenſible lives with a Glorious <hi>Martyrdom;</hi> were
+<hi>Impoſtors,</hi> or at leaſt impoſed upon, <hi>Deceivers,</hi> or
+deceived, to have believ'd and taught a <hi>Doctrine</hi> to be Reformed by
+<hi>Martin Luther, Calvin, &amp;c.</hi> that <hi>Bucer, Peter Martin,
+&amp;c.</hi> having ſacre<g ref="char:EOLhyphen"/>ligiouſly broken their tripple Vow made to God,
+and coming into <hi>England</hi> with their debauched <hi>Nuns,</hi> brought
+along with them the purity of the <hi>Primitive Church;</hi> And that their
+Contemporary <hi>Xave<g ref="char:EOLhyphen"/>rius,</hi> leaving all his great Pretentions in
+<hi>Europe,</hi> and ſailing into the remoteſt parts of the <hi>East</hi>
+to Preach the Faith, Gifted from Heaven with Power of curing all Diſeaſes,
+raiſing the dead, caſting out <hi>De<g ref="char:EOLhyphen"/>vils,</hi> endued with a high ſpirit
+of Propheſy, Gift of Tongues, and whom God proſpered ſo far, that he
+Converted from <hi>Paganiſm</hi> 12 Kingdoms by his Preaching, and ſtill
+ſavours by preſerving his In<g ref="char:EOLhyphen"/>nocent, Unſpotted, and Chaſte Body
+uncorrupt at <hi>Goa;</hi> A true <hi>Proteſtant</hi> I ſay, believes
+<hi>Bucer</hi> ſent by God, <hi>Xaverius</hi> by the ſpirit of Falſhood.
+If ſo, let <hi>Proteſtants</hi> object no more, that <hi>Catholicks</hi>
+require we deny our ſenſes, ſince they exact that we lay aſide our
+Reaſon.</p>
+            <p n="3">3 <hi>Paradox.</hi> A true <hi>Proteſtant</hi> believes,
+that that Government would be the beſt Conſtituted in the World (as being a
+perfect model of the beſt of Governments, left by Chriſt in his Church)
+wherein every ſound man ſhould have Power to cancel the Deciſions of the
+higheſt Courts, and a full liberty of diſobeying and oppo<g ref="char:EOLhyphen"/>ſing the
+Sentence of the Supream Judges in Law, unleſs it ſhould agree with his own
+private ſenſe of the ſame Law. For, if in mat<g ref="char:EOLhyphen"/>ters of Faith, the object
+whereof is remote from our ſenſes, and Eſſentially obſcure to us in
+this Life, every ſound Sheep is left
+<pb n="17" facs="tcp:64982:9"/> Judge over his Paſtor, and the whole Church;
+what more reaſo<g ref="char:EOLhyphen"/>nable than in a Queſtion of <hi>meum &amp; tuum,</hi> which
+we feel with our hands, and ſee with our eyes, and which is the ground of all
+Law and Government, every ſound man ſhould be his own Judge, and Arraign,
+Judge, and Condemn his Ruler, Governour, Prince, King, or Emperour, if in his
+private Opinion, he Judges they proceed not according to Law, (as he
+underſtands it.) This ſe<g ref="char:EOLhyphen"/>quel is ſo natural and inevitable in our
+<hi>Proteſtant</hi> Principles, that it has effectually in all Countreys
+where-ever <hi>Proteſtancy</hi> has ſpread it ſelf, Armed the Subjects
+againſt their Temporal Lords, as it firſt had done againſt the Spiritual;
+and nothing was ſo ordinary, as to ſee them March to the Field with a
+<hi>Bible</hi> under their arms, and a Text of <hi>Sripture</hi> in their
+<hi>Banner, to fight the Battle of the Lord, againſt the Princes of the
+Earth;</hi> and hence perhaps it was, that wiſe Prince King <hi>Iames</hi>
+the Firſt, preſaging as it were, the Fate of his Royal Son, ſaid of the
+Members of <hi>Parliament,</hi> then ſitting, <hi>That they were an
+Aſſembly of</hi> 300 <hi>Kings.</hi> That all the late Wars of
+<hi>Germany</hi> againſt the Emperour and Lawful Soveraigns, happen'd upon
+their change of Religion is witneſs, beſide many others <hi>Dret<g ref="char:EOLhyphen"/>ſerus, A
+Proteſtant</hi> writer in <hi>part</hi> 2. <hi>Nullenarii</hi> 6.
+<hi>pag.</hi> 661. <hi>Of Baſil. Geneva, Zuitzerland, Sweedland, Holland.
+ſee Criſpin. Chitreus, Flor. Rai.</hi> &amp;c.</p>
+            <p n="4">4 <hi>Paradox.</hi> A true <hi>Proteſtant</hi> muſt
+grant, that our <hi>Saviour</hi> was much over-ſeen in the method he took of
+Converting the World by Teachers and Preachers, and laying a reiterated Command
+upon all men of believing them; ſince really no man is bound to pin his Faith
+upon anothers ſleeve. Now the Efficacious way would have been, to Command his
+Life and Actions to be writ in all Languages, and compil'd with the <hi>Old
+Teſtament,</hi> to be ſent into every part of the World; for all things
+neceſſary to <hi>Salvation</hi> being clear and evident in Holy
+<hi>Scripture,</hi> and no body being oblig'd to be<g ref="char:EOLhyphen"/>lieve more than the
+comprehends, and as it were, ſees to be true out of the ſaid Holy
+<hi>Scripture;</hi> all, by this means, would, or at leaſt might have
+preſently diſcover'd the nullity of their own falſe Reli<g ref="char:EOLhyphen"/>gions, and
+conſequently imbrace common <hi>Chriſtianity;</hi> that is, believe ſo
+much of <hi>Chriſt</hi> and his <hi>Doctrine</hi> as each one ſhould draw
+under the <hi>Scheme</hi> of his own Reaſon, nothing elſe being
+neceſſary to <hi>Salvation</hi> in our <hi>Proteſtant</hi>
+Principles.</p>
+            <p n="5">5 <hi>Paradox.</hi> Should a Gentleman make the delivery of
+his Eſtate, ſaying, <hi>Sir,</hi> I deliver unto you a full and free
+Poſſeſſion of this In<g ref="char:EOLhyphen"/>heritance, to diſpoſe of at Diſcretion in
+quality of true Owner and Lord; but if you touch it againſt my will, or
+diſpoſe of it in whole, or in part, otherwiſe than I ſhall judge
+expedient, expect to be treated with all the Violence, Severity can invent.
+Would
+<pb n="18" facs="tcp:64982:10"/> not this be a moſt impertinent and
+ſelf-deſtroying Settlement? queſtionleſs it would. Yet this is the
+procedure of the Church of <hi>England:</hi> Here, take ſays ſhe to all
+ſound Members of the whole Chriſtian Church, this Holy <hi>Bible,</hi> Read
+and Interpret it freely; you can't but find out the Truth therein contain'd,
+nor are you <hi>oblig'd</hi> to ſubmit to any Authority under Heaven
+<hi>againſt</hi> your own <hi>Dictamen:</hi> But if you preſume to judge of
+matters therein contain'd contrary to my Sentiment thereof (though you are as
+able and as free to judge as my ſelf) know, that no Severity of the Law
+ſhall be ſpar'd in Chaſtizing you. Is not this an admirable Liberty? An
+unparallel'd Charity? Millions who never were in themſelves, or their
+Anceſtors Members of her Communion, muſt be oblig'd againſt Conſcience
+to come over to her; and no body muſt preſume to queſtion her Authority,
+becauſe <hi>ipſa dicit,</hi> and ſhe ſhall inveigh againſt <hi>Roman
+Catholicks</hi> moſt violently, for requiring that ſhe re<g ref="char:EOLhyphen"/>turn to the Union
+of the Church, whoſe Member ſhe had own'd her ſelf for upwards of a
+thouſand years: Is not this a <hi>Paradox</hi> of <hi>Paradox</hi>'s? I
+muſt believe ſhe had juſt reaſon to ſeparate from the Church of
+<hi>Rome,</hi> (though if I read Scripture till <hi>Dooms-day,</hi> I can find
+no ground for it) I muſt blindfoldly believe no Subject in the Kingdom has
+juſt reaſon to remain out of her Communion. That is, I muſt believe no
+body but an <hi>Engliſh Proteſtant</hi> can be a ſound Member of the
+Chriſtian Church, or a fit Judge in Contro<g ref="char:EOLhyphen"/>verſy: And that the Scripture
+has not for theſe thouſand years been clear to any at all, and at preſent
+is only ſo to an <hi>Engliſh Proteſtant:</hi> Which if granted, (as
+granted it muſt be,) it evidently follows that our <hi>Engliſh
+Proteſtant,</hi> is the moſt Uncharitable and Unconſcion<g ref="char:EOLhyphen"/>able Chriſtian
+in the World.</p>
+            <p n="6">6. <hi>Paradox.</hi> The true <hi>Proteſtant</hi> believes
+that a <hi>Roman Catholick</hi> Prays to a <hi>Crucifix</hi> as well as to
+<hi>Christ</hi> himſelf, and attributes as
+<note place="margin">See Advice to the Pul<g ref="char:EOLhyphen"/>pits, the Repreſ.
+Miſrepreſ.</note> much ſatisfaction to it, as to the Blood of his
+Redeemer: That the <hi>Roman Catholick Saints</hi> were Canonized for
+Treaſons, deteſta<g ref="char:EOLhyphen"/>ble Villanies, as a reward of ſtrife and every evil
+Work; That to be falſe and deceitful, is meritorious, and worthy of Eternal
+Life:
+<q>That with Money one may compound with Heaven for unforſaken
+ſins; and be abſolved without being at all ſorry for them: That
+Indulgences ſerve inſtead of ſanctification and good life;
+Con<g ref="char:EOLhyphen"/>feſſion to carry on the Plots and projects of the Prieſts, with a
+hundred ſuch deteſtable Abominations.</q> True <hi>Proteſtant</hi>
+Miniſters have laid out the <hi>Catholick</hi> Tenets under theſe foul
+colours for a<g ref="char:EOLhyphen"/>bove theſe hundred years, while the whole Body of <hi>Roman
+Catho<g ref="char:EOLhyphen"/>licks,</hi> and every Member of them diſown, condemn, and execrate
+every point thereof in particular. Now is it not a myſterious
+<hi>Paradox,</hi> that a Miniſter of the Church of <hi>England</hi> ſhould
+better
+<pb n="19" facs="tcp:64982:10"/> underſtand our <hi>Catholick</hi> Tenets,
+than the Council of <hi>Trent,</hi> and the whole Body of the
+<hi>Catholick</hi> Clergy? I do moſt ſolemnly pro<g ref="char:EOLhyphen"/>teſt
+<note place="margin">
+                  <hi>See the</hi> Ca<g ref="char:EOLhyphen"/>techiſm <hi>of the</hi>
+Coun. <hi>of</hi> Trent.</note> in the preſence of Almighty God, that were
+theſe Doctrines, and the like taught in the <hi>Roman Catholick</hi> Church,
+as <hi>Proteſtants</hi> ſay they are, I would not remain one hour in her
+Communion: yet the Vulgar muſt believe it ſo; and why? Becauſe it is for
+the In<g ref="char:EOLhyphen"/>tereſt of the <hi>Protestant</hi> Clergy that the People ſhould live
+in Ap<g ref="char:EOLhyphen"/>prehenſion and Horrour of <hi>Popery,</hi> whether by falſe or true
+Re<g ref="char:EOLhyphen"/>ports, it was always alike to the <hi>Proteſtant</hi> Teachers.</p>
+            <p n="7">7 <hi>Paradox.</hi> Although it be evident, that King
+<hi>Henry</hi> the Eighth, never thought of laying the firſt ſtone of the
+<hi>Reformation</hi> preten<g ref="char:EOLhyphen"/>ded, till he was refuſed by his
+<hi>Holineſs,</hi> the liberty of putting a<g ref="char:EOLhyphen"/>way his Lawful Queen, and that
+the Protector of <hi>Edward</hi> the Sixth, who carried on the deſign, had
+always in his eye the great Fortune he raiſed upon the Ruins of <hi>Abbys,
+Priorys,</hi> &amp;c. And that Queen <hi>Elizabeth</hi> had never perfected it,
+was it not that ſhe found it the only expedient for the making a Party to
+ſupport the weakneſs, or rather defect and nullity of her Title.</p>
+            <p>Altho' all the Promoters of this great Revolution were apparently
+invited, by ample and rich Poſſeſſions of the Church, and the
+<hi>Prote<g ref="char:EOLhyphen"/>ſtant</hi> Clergy entered into Poſſeſſion of more than a
+Million of <hi>Ca<g ref="char:EOLhyphen"/>tholick</hi> Revenues.</p>
+            <p>Altho' nothing be ſo clear, as that the necesſity of a
+handſom maintenance for Wife and Children, mixt with a fear of being defam'd
+and ruin'd by the Party, if they leave it; be the chief in<g ref="char:EOLhyphen"/>vitation of the
+<hi>Ministers</hi> of the Church of <hi>England,</hi> to remain in her
+<hi>Communion,</hi> as many of them have own'd to me, (ſome of which I have
+reconcil'd.) Altho' experience hourly teaches, that no <hi>Catholick</hi> ever
+calls for a Miniſter on his Death-bed, to be received into the
+<hi>Proteſtant</hi> Communion. Tho' <hi>Proteſtants</hi> daily ſend for
+<hi>Ro<g ref="char:EOLhyphen"/>man Catholick Prieſts</hi> in that Truth-diſcovering moment. Yet our
+true <hi>Proteſtant</hi> believes this whole work of the <hi>Reformation</hi>
+to have been begun, and carried on without Intereſt, Prejudice, or Pasſion,
+and that there is a finger of God in the whole: And that it is the <hi>Roman
+Catholick</hi> (forſooth) who in matters of Religion, is guided by
+Intereſt, while the <hi>Proteſtant</hi> is governed by pure Reaſon, and
+ſole Principles of Religion; which if ſo, our Reaſon is inverted, our
+Judgment without Rule, and all of us deſtitute of common Senſe.</p>
+            <p>Can it be poſſible that any Conſidering, Serious, Sober
+Chri<g ref="char:EOLhyphen"/>ſtian Reading this Paper with an unbyaſs'd Mind, and indifferent
+Reaſon ſhould do otherwiſe than doubt at leaſt, whether the
+<hi>Pro<g ref="char:EOLhyphen"/>teſtant Rule of Faith</hi> may be follow'd in the perillous journey
+of Eternity; and whether he may not have the ſame reaſon to doubt,
+<pb n="20" facs="tcp:64982:11"/> as an Eminent <hi>Doctor</hi> of the Church of
+<hi>England</hi> had, when giving me his Hand, he ſaid; <hi>Sir, you have by
+the Hand the Vnhappieſt Man living;</hi> I deſir'd to know the reaſon of
+his Diſſatisfaction; <hi>I am,</hi> ſays he, <hi>a Member of a Church, I
+know to be Falſe, and a Guide to other, in a way I am ſure will never Save
+them.</hi> Why truly <hi>Dr.</hi> ſaid I, things ſtanding ſo, you have a
+great deal of reaſon to ſtyle your ſelf Unhappy, and ought in my judgment
+to provide a time<g ref="char:EOLhyphen"/>ly remedy; he replyed, <hi>That God was merciful, and that he
+would think on't in good time: That there was one Impediment,</hi> viz. <hi>A
+Wife, which he muſt provide for; that he had been Gentilely Educated, and was
+now very acceptable to the Gentry (as indeed he was) and that to be<g ref="char:EOLhyphen"/>come a</hi>
+Catholick <hi>would ruine his Family: That if he ſhould quit his Be<g ref="char:EOLhyphen"/>nefice
+(one of the beſt in our Country) another might ſucceed who would do more
+harm, and rail againſt the Truth more than he had done: For his part,</hi> he
+ſaid, <hi>he had never in his Life Preached againſt the</hi> Papiſts
+<hi>but twice (which ſtill lay upon his Conſcience) and it was for that he
+had been check'd by his Biſhop for not doing it.</hi> I replyed, That all
+theſe ſpe<g ref="char:EOLhyphen"/>cious Arguments would not prove a ſufficient Plea at the day of
+Judgment. He ſhrunck up his ſhoulders, ſaying, <hi>He ſerved a God, he
+hop'd, would be as merciful to him, as he had been to one of his
+Pre<g ref="char:EOLhyphen"/>deceſſors, who was reconcil'd upon his Death-Bed.</hi> I laboured to
+ſhew him the danger of that fallacious Diſcourſe, ſaying how he ought
+to call to mind, <hi>that altho'</hi> a <hi>Thief on the right hand of our
+dying Saviour had found mercy, yet another as near to his Redeemer, had
+periſhed on the left;</hi> and much to that purpoſe. In the end, he
+promiſed, that the Spring following, <hi>He would go to</hi> Rome, <hi>and do
+as his Conſci<g ref="char:EOLhyphen"/>ence obliged him,</hi> nor could I obtain any more of him; I
+returned ſoon after into <hi>Flanders,</hi> and that very Winter the poor
+Gentle<g ref="char:EOLhyphen"/>man died without any aſſiſtance.</p>
+            <p>It was (as I take it) upon the ſame occaſion, that he told me,
+<hi>How he thought it impoſſible for any Schollar, who was not blinded by
+falſe Principles of Education, Intereſt, Paſſion, or Senſuality, to
+read the Holy Scriptures, and ſearch into Hiſtory, without being convinced
+of the</hi> Roman Catholick <hi>Churches being the only way to Salvation,</hi>
+and conſequently of the nullity of all the pretended
+<hi>Reformations.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="notice">
+            <head>ADVERTISMENT.</head>
+            <p>I Have been obliged to prefix different Titles to this ſhort
+Diſcourſe, by reaſon of the Endeavours I have Experienced to be uſed by
+<hi>Proteſtant Miniſters</hi> to keep out of the Peoples hands all Books
+and Papers, which might contribute to the diſ-abu<g ref="char:EOLhyphen"/>ſing a Nation, the moſt
+impoſed upon this day in Chriſtendom.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
